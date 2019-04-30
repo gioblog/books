@@ -1,5 +1,5 @@
 [
-  { started: "", finished: "", title: "THE HATE YOU GIVE",            author: "Angie Thomas",     url: "" }
-, { started: "", finished: "", title: "11 before 12",                 author: "Lisa Greenwald",   url: "" }
-, { started: "", finished: "", title: "Children of Blood and Bones",  author: "Toni Adeyemi",     url: "http://www.tomiadeyemi.com/events/" }
+  { "started": "", "finished": "", title: "THE HATE YOU GIVE",            author: "Angie Thomas",     url: "" }
+, { "started": "", "finished": "", title: "11 before 12",                 author: "Lisa Greenwald",   url: "" }
+, { "started": "", "finished": "", title: "Children of Blood and Bones",  author: "Toni Adeyemi",     url: "http://www.tomiadeyemi.com/events/" }
 ]
